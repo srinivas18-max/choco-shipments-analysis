@@ -1,0 +1,19 @@
+# Power BI / Office temp and cache files
+~$*.pbix
+~$*.xlsx
+*.pbi/
+*.pbit
+*.tmp
+*.bak
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Credentials and local config
+*.env
+secrets.*
+*.pem
+*.key
