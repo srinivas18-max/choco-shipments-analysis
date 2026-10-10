@@ -111,7 +111,12 @@ choco-shipments-analysis/
 │   └── sample-chocolate-shipments-data-all-Apr-2025.xlsx
 ├── measures/
 │   └── measures.md
-```
+│ Screenshots/
+│   └──Screenshots/Choco Shipment  from USA.png
+       Screenshots/Choco Shipment from INDIA.png
+       Screenshots/Overall Choco shipment Analysis.png
+       Screenshots/Shipment by geo and amount paid.png
+       Screenshots/Shipment of top 5 bottom 5.png
 
 ## How to Open the Report
 
